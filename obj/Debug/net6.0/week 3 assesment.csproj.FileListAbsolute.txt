@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\week 3 assesment\bin\Debug\net6.0\week 3 assesment.exe
+C:\Users\HP\Desktop\week 3 assesment\bin\Debug\net6.0\week 3 assesment.deps.json
+C:\Users\HP\Desktop\week 3 assesment\bin\Debug\net6.0\week 3 assesment.runtimeconfig.json
+C:\Users\HP\Desktop\week 3 assesment\bin\Debug\net6.0\week 3 assesment.dll
+C:\Users\HP\Desktop\week 3 assesment\bin\Debug\net6.0\week 3 assesment.pdb
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.AssemblyInfo.cs
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.dll
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\refint\week 3 assesment.dll
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.pdb
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\week 3 assesment.genruntimeconfig.cache
+C:\Users\HP\Desktop\week 3 assesment\obj\Debug\net6.0\ref\week 3 assesment.dll
